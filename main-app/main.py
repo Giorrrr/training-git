@@ -1,4 +1,4 @@
-from rumus_matematika import RumusMatematika
+from rumus_matematika.src import RumusMatematika
 
 def main():
     print("Hello from main-app!")

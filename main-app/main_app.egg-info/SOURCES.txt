@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+main_app.egg-info/PKG-INFO
+main_app.egg-info/SOURCES.txt
+main_app.egg-info/dependency_links.txt
+main_app.egg-info/top_level.txt
+rumus_matematika/src/__init__.py
+rumus_matematika/src/rumus_matematika.py
